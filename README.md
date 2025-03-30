@@ -1,2 +1,3 @@
 # Global AI Hub Deep Learning Bootcamp
-Bootcampte Yaptığımız Projenin Reposudur.
+Bootcamp için gereken projenin reposudur.
+Bu projede ses spektrumları, deep learning aracılığı ile görüntü spektrumlarına çevrilmiştir.
